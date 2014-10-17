@@ -8,6 +8,7 @@ mapping app for community organisations in a disaster
 _Team_: Dan Lewis, Jessica Kennair
 
 _Backend_: C#, .NET.
+
 _Frontend_: OOJavaSript, Ajax, Knockout.js, jQuery/UI.
 
 Consuming googleMaps API for the mapping aspect of the project.
