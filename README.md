@@ -9,6 +9,6 @@ _Team_: Dan Lewis, Jessica Kennair
 
 _Backend_: C#, .NET.
 
-_Frontend_: OOJavaSript, Ajax, Knockout.js, jQuery/UI.
+_Frontend_: OOJavaSript, Ajax, jQuery/UI.
 
 Consuming googleMaps API for the mapping aspect of the project.
