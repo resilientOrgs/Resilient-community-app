@@ -14,5 +14,12 @@ namespace ResillientOrg.Controllers
 
             return View();
         }
+
+        public ActionResult Mapping()
+        {
+            ViewBag.Title = "Mapping";
+
+            return View();
+        }
     }
 }
