@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResilientOrg", "ResillientOrg\ResilientOrg.csproj", "{070C8A24-92E6-4CC5-92DC-9FF3DCCA099F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResillientOrg.Tests", "ResillientOrg.Tests\ResillientOrg.Tests.csproj", "{247D61EF-65F0-4CE8-B858-E780200A4750}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResilientOrg.Tests", "ResillientOrg.Tests\ResilientOrg.Tests.csproj", "{247D61EF-65F0-4CE8-B858-E780200A4750}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
