@@ -1,10 +1,10 @@
 using System;
 using System.Web.Http;
 using System.Web.Mvc;
-using ResillientOrg.Areas.HelpPage.ModelDescriptions;
-using ResillientOrg.Areas.HelpPage.Models;
+using resilientOrg.Areas.HelpPage.ModelDescriptions;
+using resilientOrg.Areas.HelpPage.Models;
 
-namespace ResillientOrg.Areas.HelpPage.Controllers
+namespace resilientOrg.Areas.HelpPage.Controllers
 {
     /// <summary>
     /// The controller that will handle requests for the help page.

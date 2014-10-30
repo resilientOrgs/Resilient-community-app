@@ -1,6 +1,6 @@
 using System.Collections.ObjectModel;
 
-namespace ResillientOrg.Areas.HelpPage.ModelDescriptions
+namespace resilientOrg.Areas.HelpPage.ModelDescriptions
 {
     public class ComplexTypeModelDescription : ModelDescription
     {

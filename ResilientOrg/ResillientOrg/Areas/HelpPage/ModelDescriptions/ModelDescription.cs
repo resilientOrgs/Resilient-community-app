@@ -1,6 +1,6 @@
 using System;
 
-namespace ResillientOrg.Areas.HelpPage.ModelDescriptions
+namespace resilientOrg.Areas.HelpPage.ModelDescriptions
 {
     /// <summary>
     /// Describes a type model.

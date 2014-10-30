@@ -2,9 +2,9 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Net.Http.Headers;
 using System.Web.Http.Description;
-using ResillientOrg.Areas.HelpPage.ModelDescriptions;
+using resilientOrg.Areas.HelpPage.ModelDescriptions;
 
-namespace ResillientOrg.Areas.HelpPage.Models
+namespace resilientOrg.Areas.HelpPage.Models
 {
     /// <summary>
     /// The model that represents an API displayed on the help page.

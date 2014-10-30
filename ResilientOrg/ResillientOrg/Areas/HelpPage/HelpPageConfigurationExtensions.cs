@@ -10,10 +10,10 @@ using System.Net.Http.Headers;
 using System.Web.Http;
 using System.Web.Http.Controllers;
 using System.Web.Http.Description;
-using ResillientOrg.Areas.HelpPage.ModelDescriptions;
-using ResillientOrg.Areas.HelpPage.Models;
+using resilientOrg.Areas.HelpPage.ModelDescriptions;
+using resilientOrg.Areas.HelpPage.Models;
 
-namespace ResillientOrg.Areas.HelpPage
+namespace resilientOrg.Areas.HelpPage
 {
     public static class HelpPageConfigurationExtensions
     {
