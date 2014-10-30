@@ -23,5 +23,7 @@ namespace ResilientOrg.Models
 
         public ICollection<Post> posts { get; set; }
         public ICollection<Message> Messages { get; set; }
+
+        //Need to create controller or controllers for these models now
     }
 }
