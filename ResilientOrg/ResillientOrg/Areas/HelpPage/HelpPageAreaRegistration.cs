@@ -1,7 +1,7 @@
 using System.Web.Http;
 using System.Web.Mvc;
 
-namespace ResillientOrg.Areas.HelpPage
+namespace resilientOrg.Areas.HelpPage
 {
     public class HelpPageAreaRegistration : AreaRegistration
     {

@@ -102,9 +102,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ResillientOrg\ResillientOrg.csproj">
+    <ProjectReference Include="..\ResillientOrg\ResilientOrg.csproj">
       <Project>{070C8A24-92E6-4CC5-92DC-9FF3DCCA099F}</Project>
-      <Name>ResillientOrg</Name>
+      <Name>ResilientOrg</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

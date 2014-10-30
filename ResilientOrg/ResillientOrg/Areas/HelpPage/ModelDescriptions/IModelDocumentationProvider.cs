@@ -1,7 +1,7 @@
 using System;
 using System.Reflection;
 
-namespace ResillientOrg.Areas.HelpPage.ModelDescriptions
+namespace resilientOrg.Areas.HelpPage.ModelDescriptions
 {
     public interface IModelDocumentationProvider
     {

@@ -1,4 +1,4 @@
-namespace ResillientOrg.Areas.HelpPage.ModelDescriptions
+namespace resilientOrg.Areas.HelpPage.ModelDescriptions
 {
     public class CollectionModelDescription : ModelDescription
     {

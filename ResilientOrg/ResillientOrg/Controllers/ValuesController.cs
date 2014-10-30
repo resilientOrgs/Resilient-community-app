@@ -5,7 +5,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 
-namespace ResillientOrg.Controllers
+namespace resilientOrg.Controllers
 {
     public class ValuesController : ApiController
     {

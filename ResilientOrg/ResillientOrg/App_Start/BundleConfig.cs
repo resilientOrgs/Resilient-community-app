@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace ResillientOrg
+namespace resilientOrg
 {
     public class BundleConfig
     {
