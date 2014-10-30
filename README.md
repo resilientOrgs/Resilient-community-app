@@ -11,4 +11,4 @@ _Backend_: C#, .NET.
 
 _Frontend_: OOJavaSript, Ajax, jQuery/UI.
 
-Consuming googleMaps API for the mapping aspect of the project.
+Consuming leaflet API and MapBox for the mapping aspect of the project.
