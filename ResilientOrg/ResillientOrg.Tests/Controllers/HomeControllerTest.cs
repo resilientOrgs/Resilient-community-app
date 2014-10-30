@@ -1,9 +1,9 @@
 ﻿using System.Web.Mvc;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ResillientOrg;
-using ResillientOrg.Controllers;
+using resilientOrg;
+using resilientOrg.Controllers;
 
-namespace ResillientOrg.Tests.Controllers
+namespace resilientOrg.Tests.Controllers
 {
     [TestClass]
     public class HomeControllerTest
