@@ -12,3 +12,16 @@ _Backend_: C#, .NET.
 _Frontend_: OOJavaSript, Ajax, jQuery/UI.
 
 Consuming leaflet API and MapBox for the mapping aspect of the project.
+
+Points up for consideration
+============================
+
+Should users be able to have access to each others email address
+
+Do we have options where email address are private but users can message each other through the app
+
+Do we need messages dataset a posts dataset and a user dataset or a posts dataset that is both local and global
+
+How do we validate users authenticity
+
+
