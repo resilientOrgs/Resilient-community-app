@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ResilientOrg.Models
 {
-    class Message
+    public class Message
     {
         public int MessageId { get; set; }
         public string Title { get; set; }

@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace resilientOrg
+namespace Reso
 {
     public class FilterConfig
     {

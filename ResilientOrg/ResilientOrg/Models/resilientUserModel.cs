@@ -1,10 +1,10 @@
 using ResilientOrg.Models;
+using System;
+using System.Data.Entity;
+using System.Linq;
+
 namespace ResilientOrg.Views.Home
 {
-    using System;
-    using System.Data.Entity;
-    using System.Linq;
-    using System.Data.Entity;
 
     public class resilientUserModel : DbContext
     {
